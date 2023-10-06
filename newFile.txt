@@ -1,0 +1,6 @@
+1. GITHUB사이트에 repo를 생성한다.
+2. 로컬컴퓨터에서 repo를 clone한다.
+   File메뉴에서 clone repository
+3. 새로운 파일을 생성한다
+4. commit to 
+5. push origin
